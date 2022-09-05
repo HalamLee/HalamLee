@@ -8,7 +8,7 @@
 <!-- 모던 애자일 [![Tech Blog Badge](http://img.shields.io/badge/-Modern%20Agile-black?style=flat-square&logo=Medium&link=https://medium.com/modern-agile-team)](https://medium.com/modern-agile-team)
 [![Youtube Badge](https://img.shields.io/badge/Modern%20Agile-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC99JTVHdVLVWpCjVrm1jzMw)](https://www.youtube.com/channel/UC99JTVHdVLVWpCjVrm1jzMw)<br><br> -->
   
-<a href="https://opgc.me/#/users/halamLee" target="_blank"><img src="https://api.opgc.me/githubs/users/halamLee/tag/?theme=rainbow" /></a>
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=HalamLee&show_icons=true&theme=prussian" width=49.0% />
