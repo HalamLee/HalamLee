@@ -2,6 +2,8 @@
 <img alt="Night Coding" src="./assets/Hand Wave.gif" width='40' align="left"/><h2>Hey there! I'm Lami</h2>
  <br>
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=halamlee)](https://velog.io/@halamlee)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=HalamLee&show_icons=true&theme=prussian" width=49.0% />
 </a>
